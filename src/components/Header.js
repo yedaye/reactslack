@@ -20,7 +20,7 @@ function Header() {
                     Yannick
                 </Name>
                 <UserImage>
-                    <img src="../yannick.jpeg"/>
+                    <img src="../src/yannick.jpeg"/>
                 </UserImage>
             </UserContainer>
         </Container>
